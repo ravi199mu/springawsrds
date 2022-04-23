@@ -1,0 +1,7 @@
+com\ravi\web\exception\ErrorDetails.class
+com\ravi\web\controller\UserResource.class
+com\ravi\web\model\User.class
+com\ravi\web\exception\GlobalExceptionHandler.class
+com\ravi\web\SpringRestApplication.class
+com\ravi\web\exception\UserNotFoundException.class
+com\ravi\web\repository\UserRepository.class
